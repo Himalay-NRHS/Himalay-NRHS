@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My Engineering Map
+```bash
+$ whoami
+himalay
 
-![Map](https://raw.githubusercontent.com/Himalay-NRHS/profile-assets/main/map.gif)
+$ cat focus.txt
+systems
+databases
+ai
+backend
+
+$ ./current_project
+building multilingual voice system for elderly care
+
