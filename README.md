@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Engineering Map
+
+![Map](https://raw.githubusercontent.com/Himalay-NRHS/profile-assets/main/map.gif)
