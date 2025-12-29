@@ -24,6 +24,6 @@ databases
 ai
 backend
 
-$ ./current_project
-building multilingual voice system for elderly care
+
+
 
