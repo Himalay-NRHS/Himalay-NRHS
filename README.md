@@ -5,6 +5,16 @@ And I’m,
 <p align="center">build • break • debug • repeat</p>
 
 Yes, that’s my actual name. 
+I make computers do things. Sometimes impressive things.
+
+## Currently Building
+
+- Multilingual voice AI for elderly care system  
+- Scalable backend services  
+- Deep dive into OS & DB internals
+
+
+  
 
 <!--
 **Himalay-NRHS/Himalay-NRHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +35,9 @@ Still figuring it out. But faster than yesterday.
 This greeting took longer to write than my last project.
 
 Professional bug creator. Expert bug remover.
-I make computers do things. Sometimes impressive things.
-Visitor #[counter]. Thanks for stopping by.You're the [counter] person to read this. Welcome to the club.
+
+Play this. if your ide is building the project for you , with unimmagunable errors and you are wandering on this platform 
+
 -->
 ```bash
 $ whoami
