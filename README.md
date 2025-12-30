@@ -1,4 +1,4 @@
-Hey! Visitor #<img src="https://komarev.com/ghpvc/?username=Himalay-NRHS&label=&color=000000&style=flat" /> checking in.
+Hey! Visitor #<img src="https://komarev.com/ghpvc/?username=Himalay-NRHS&label=&color=grey&style=for-the-badge" /> checking in.
 
 
 <h1 align="center">H I M A L A Y</h1>
