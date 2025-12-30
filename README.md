@@ -1,4 +1,5 @@
-## Hey! Visitor #[counter] checking in.
+## Hey! Visitor ![counter](https://komarev.com/ghpvc/?username=Himalay-NRHS&style=flat-square&color=blue) checking in.
+
 <h1 align="center">H I M A L A Y</h1>
 <p align="center">build • break • debug • repeat</p>
 
