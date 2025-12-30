@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! Visitor #[counter] checking in.
 <h1 align="center">H I M A L A Y</h1>
 <p align="center">build • break • debug • repeat</p>
 
