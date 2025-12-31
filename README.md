@@ -11,7 +11,7 @@ I make computers do things. Sometimes impressive things.
 
 - Multilingual voice AI for elderly care system  
 - Scalable backend services  
-- Deep dive into OS & DB internals
+
 
 
   
