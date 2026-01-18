@@ -9,7 +9,6 @@ I make computers do things. Sometimes impressive things.
 
 ## Currently Building
 
-- Multilingual voice AI for elderly care system  
 - Scalable backend services  
 
 
