@@ -38,15 +38,7 @@ Professional bug creator. Expert bug remover.
 Play this. if your ide is building the project for you , with unimmagunable errors and you are wandering on this platform 
 
 -->
-```bash
-$ whoami
-himalay
 
-$ cat focus.txt
-systems
-databases
-ai
-backend
 
 
 
