@@ -6,6 +6,7 @@ And I’m,
 
 Yes, that’s my actual name. 
 I make computers do things. Sometimes impressive things.
+currently SDET intern @ Amazon 
 
 ## Currently Building
 
